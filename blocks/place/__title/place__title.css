@@ -9,6 +9,12 @@
     color: #fff;
 }
 
+@media screen and (max-width: 1023px) {
+  .place__title {
+    font-size: 5vw;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .place__title {
     font-size: 5.5vw;
