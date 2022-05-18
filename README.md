@@ -16,4 +16,9 @@
 
 * [Ссылка на готовый проект](https://b9l4ecjlab.github.io/russian-travel/)
 
+### Для скачивания:
+```
+https://github.com/B9l4eCJlaB/russian-travel.git
+```
+
 
